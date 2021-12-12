@@ -1,8 +1,10 @@
 # Spotify-Music-Recommendation
 
-## Link to the Final Report Paper:
+## Final Report Paper:
 
-https://docs.google.com/document/d/1IKcUo0yUUsEKN9okanEwHt3pd5DGJdaf8y61aZoEH0g/edit?usp=sharing
+https://github.com/ixxan/Spotify-Music-Recommendation/blob/main/Documentations/Final%20Report%20Paper.pdf
+
+Or navigate to /Documentations/Final Report Paper.pdf
 
 ## Link to Created Website:
 
@@ -13,11 +15,13 @@ https://dsci303-music-recommender.herokuapp.com/
 https://github.com/keiferconvertino/MusicRecommender
 
 ## Notebooks Descriptions
-* **DSCI 303 Final Project_ EDA.ipynb**: all the EDA related to this project.
-* **DSCI 303 Final Project_ Clustering.ipynb**: Clustering analysis of KMeans vs. GMM.
-* **DSCI 303 Final Project_ GMM.ipynb**: Final clustering ananlysis after we decided to proceed with GMM.
-* **DSCI 303 Final Project_ Popularity Analysis.ipynb**: Analysis on the popularity scores vs. audio features.
-* **DSCI 303 Final Project_ Popularity Prediction.ipynb**: Predicting popularity score using different models(hyperparameter tuning, accuracy scoring).
-* **DSCI 303 Final Project_ Genre Subsets vs. Without Genre Subsets.ipynb**: Comparison of popularity preditions with/without subsetting by genres.
-* **DSCI 303 Final Project_ Main_Listener.ipynb**: Main code for listener music recommendations.
-* **DSCI 303 Final Project_ Main_Artist.ipynb**: Main code for artist popularity predictions and popularity audio feature comparisons. 
+To run code on Google Colab, please upload all the csv files under the `data` folder to the `content` directory of your Google Colab notebook.
+To run the code locally, please change all the `pd.read_csv("/content/DataFileName.csv")` to `pd.read_csv("/data/DataFileName.csv")`.
+* Code/**DSCI 303 Final Project_ EDA.ipynb**: all the EDA related to this project.
+* Code/**DSCI 303 Final Project_ Clustering.ipynb**: Clustering analysis of KMeans vs. GMM.
+* Code/**DSCI 303 Final Project_ GMM.ipynb**: Final clustering ananlysis after we decided to proceed with GMM.
+* Code/**DSCI 303 Final Project_ Popularity Analysis.ipynb**: Analysis on the popularity scores vs. audio features.
+* Code/**DSCI 303 Final Project_ Popularity Prediction.ipynb**: Predicting popularity score using different models(hyperparameter tuning, accuracy scoring).
+* Code/**DSCI 303 Final Project_ Genre Subsets vs. Without Genre Subsets.ipynb**: Comparison of popularity preditions with/without subsetting by genres.
+* Code/**DSCI 303 Final Project_ Main_Listener.ipynb**: Main code for listener music recommendations.
+* Code/**DSCI 303 Final Project_ Main_Artist.ipynb**: Main code for artist popularity predictions and popularity audio feature comparisons. 
