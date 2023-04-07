@@ -1,11 +1,5 @@
 # Spotify-Music-Recommendation
 
-## Final Report Paper:
-
-https://github.com/ixxan/Spotify-Music-Recommendation/blob/main/Documentations/Final%20Report%20Paper.pdf
-
-Or navigate to /Documentations/Final Report Paper.pdf
-
 ## Link to Created Website:
 
 https://dsci303-music-recommender.herokuapp.com/
