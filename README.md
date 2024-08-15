@@ -20,6 +20,8 @@ To run the code locally, please change all the `pd.read_csv("/content/DataFileNa
 * Code/**DSCI 303 Final Project_ Main_Listener.ipynb**: Main code for listener music recommendations.
 * Code/**DSCI 303 Final Project_ Main_Artist.ipynb**: Main code for artist popularity predictions and popularity audio feature comparisons. 
 
+
+# !!!Deprecated:
 ## Link to Created Website:
 
 https://dsci303-music-recommender.herokuapp.com/
