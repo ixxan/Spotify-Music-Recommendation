@@ -1,12 +1,12 @@
 # Spotify-Music-Recommendation
+### Listener Interface - getting music recommendations:
 
-## Link to Created Website:
+![alt text](https://github.com/ixxan/Spotify-Music-Recommendation/blob/main/Demo_Listeners.png?raw=true)
 
-https://dsci303-music-recommender.herokuapp.com/
+### Artist Interface - getting music feedbacks:
+![alt text](https://github.com/ixxan/Spotify-Music-Recommendation/blob/main/Demo_Artists.png?raw=true)
 
-## Link to Website Github:
 
-https://github.com/keiferconvertino/MusicRecommender
 
 ## Notebooks Descriptions
 To run code on Google Colab, please upload all the csv files under the `data` folder to the `content` directory of your Google Colab notebook.
@@ -19,3 +19,11 @@ To run the code locally, please change all the `pd.read_csv("/content/DataFileNa
 * Code/**DSCI 303 Final Project_ Genre Subsets vs. Without Genre Subsets.ipynb**: Comparison of popularity preditions with/without subsetting by genres.
 * Code/**DSCI 303 Final Project_ Main_Listener.ipynb**: Main code for listener music recommendations.
 * Code/**DSCI 303 Final Project_ Main_Artist.ipynb**: Main code for artist popularity predictions and popularity audio feature comparisons. 
+
+## Link to Created Website:
+
+https://dsci303-music-recommender.herokuapp.com/
+
+## Link to Website Github:
+
+https://github.com/keiferconvertino/MusicRecommender
